@@ -16,7 +16,10 @@
     background-image: url("../images/banner.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 81vh;
+    height: 100vh;
+}
+.top-75{
+    top: 70%;
 }
 .color-icon{
     color: #00BC9C;
