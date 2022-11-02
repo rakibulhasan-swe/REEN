@@ -1,0 +1,32 @@
+.text-color{
+    color: #506A85;
+}
+.link-hover:hover{
+    background-color: #506A85;
+    color: white;
+}
+.btn-color{
+    background-color: #00BC9C;
+}
+.btn-color:hover{
+    background-color: #27f2d0;
+    color: #283645;
+}
+.banner-section{
+    background-image: url("../images/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 81vh;
+}
+.color-icon{
+    color: #00BC9C;
+}
+.footer-bg{
+    background-color: #2F4052;
+}
+.icon-size{
+    font-size: 25px;
+}
+.f-color{
+    background-color: #283645;
+}
